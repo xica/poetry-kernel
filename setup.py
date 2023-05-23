@@ -65,7 +65,7 @@ setup(
     packages=["poetry_kernel"],
     python_requires=">=3.7",
     install_requires=[
-        "jupyter-client ~= 7.0.1",
+        "jupyter-client ~= 8.2.0",
         "colorama ~= 0.4.4",
     ],
     **setup_args,
